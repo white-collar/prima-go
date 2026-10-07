@@ -1,5 +1,7 @@
 # PRIMA — spheroidal geodesy (Go port)
 
+[![Test](https://github.com/white-collar/prima-go/actions/workflows/test.yml/badge.svg)](https://github.com/white-collar/prima-go/actions/workflows/test.yml)
+
 A Go rewrite of `PRIMA.EXE`, the DOS program *«Решение задач сфероидической геодезии»*
 (Solving problems of spheroidal geodesy). The original is a Borland Pascal 7 program (1992)
 using the **Krasovsky 1940** ellipsoid. All formulas were recovered from the executable's
