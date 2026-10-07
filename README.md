@@ -2,6 +2,8 @@
 
 [![Test](https://github.com/white-collar/prima-go/actions/workflows/test.yml/badge.svg)](https://github.com/white-collar/prima-go/actions/workflows/test.yml)
 
+**English** | [Українська](README.uk.md)
+
 A Go rewrite of `PRIMA.EXE`, the DOS program *«Решение задач сфероидической геодезии»*
 (Solving problems of spheroidal geodesy). The original is a Borland Pascal 7 program (1992)
 using the **Krasovsky 1940** ellipsoid. All formulas were recovered from the executable's
@@ -17,7 +19,7 @@ The original program was written by geodesy students as a study project:
 | Author of the interface and most of the routines | **Бартенева А.В.** (A.V. Barteneva), group ПГ-90 |
 | Author of individual routines | **Воронова В.И.** (V.I. Voronova), group ПГ-88 |
 | Author of individual routines | **Котолуп Т.Ф.** (T.F. Kotolup), group ПГ-88 |
-| Project supervisor | **Гавриленко Ю.Н.** (Yu.N. Gavrilenko) |
+| Project supervisor | **Гавриленко Ю.Н.** (Yu.N. Gavrilenko), Doctor of Science, professor of the Department of Geoinformatics and Geodesy, [Donetsk National Technical University (DonNTU)](https://donntu.edu.ua) |
 
 The algorithms and the structure of the program are theirs; this repository is a port to Go
 made for learning. The original executable is not included here.
