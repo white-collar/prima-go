@@ -1,0 +1,11 @@
+# Go build output
+/prima
+
+# Python
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Original executable (not distributed)
+PRIMA.EXE
